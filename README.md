@@ -1,6 +1,6 @@
 # Hi, I'm Shahneel Sohail 👋
 
-Associate Software Engineer with 1.5 years of experience building web applications across fintech, SaaS and real-time systems. Mostly frontend, with solid backend and API work.
+Full-stack software engineer who ships production web applications end to end across fintech, SaaS and real-time systems: polished React and Next.js interfaces, Node.js and Express APIs, and MongoDB and PostgreSQL data layers. I've integrated Stripe payments, Socket.io live updates, role-based access control and AI APIs into real products.
 
 ## Tech stack
 
