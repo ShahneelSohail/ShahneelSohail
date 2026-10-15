@@ -4,11 +4,11 @@ Associate Software Engineer with 1.5 years of experience building web applicatio
 
 ## Tech stack
 
-**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-**Frontend:** React, Next.js, Redux Toolkit, Material UI, Tailwind CSS
-**Backend:** Node.js, Express, REST APIs, WebSockets, Socket.io
-**Databases and ORMs:** MongoDB (Mongoose), PostgreSQL, MySQL, Prisma, Sequelize
-**Other:** Stripe, WebRTC, FFmpeg, OpenAI / Claude APIs, Git, Jira
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frontend:** React, Next.js, Redux Toolkit, Material UI, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs, WebSockets, Socket.io
+- **Databases and ORMs:** MongoDB (Mongoose), PostgreSQL, MySQL, Prisma, Sequelize
+- **Other:** Stripe, WebRTC, FFmpeg, OpenAI / Claude APIs, Git, Jira
 
 ## Featured project
 
